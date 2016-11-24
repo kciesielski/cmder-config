@@ -1,0 +1,606 @@
+exit
+exit
+bash
+exit
+exit
+exit
+bash
+rm known_hosts 
+rmdir .ss
+ln
+ln --help
+mkdir .ssh
+ll
+ls -alL
+cd ..
+rmdir .ssh
+cd .ssh
+cd 
+f:
+cd code
+git clone git@github.com:aludwiko/cassandra-phantom.git
+cd cassandra-phantom\
+ls
+sbtr
+sbt
+exit
+f:
+cd code
+ls
+cd cassandra-phantom\
+sbt
+exit
+exit
+ll
+cd F:
+cd f:\
+f:
+cd code
+cd oss\cassandra-phantom 
+ls
+c cassandra-phantom 
+cd oss
+cd cassandra-phantom 
+cd ..
+git clone git@github.com:aludwiko/cassandra-phantom.git
+bash
+exit
+exit
+bash
+exit
+exit
+exit
+bash
+rm known_hosts 
+rmdir .ss
+ln
+mkdir .ssh
+ll
+cd ..
+rmdir .ssh
+cd .ssh
+cd 
+f:
+cd code
+git clone git@github.com:aludwiko/cassandra-phantom.git
+cd cassandra-phantom\
+ls
+sbtr
+sbt
+exit
+f:
+cd code
+ls
+cd cassandra-phantom\
+exit
+ll
+cd F:
+cd f:\
+cd oss\cassandra-phantom 
+c cassandra-phantom 
+cd oss
+cd cassandra-phantom 
+git clone git@github.com:aludwiko/cassandra-phantom.git
+sbtt
+cd code\cassandra-phantom\
+cd ~
+cd
+cd c:\users\krzysiek
+rm -rf ./.sbt/*
+rm -rf ./.sbt/.*
+ln -s f:\code\.sbt .\.sbt
+ln -s f:\code\.sbt .sbt
+rmdir .sbt
+ln --help
+cat .sbt
+ln -s f:\code\.sbt c:\users\krzysiek\.sbt
+cd f:\code\sbt
+cd f:\code\.sbt
+ls -alL
+rm .sbt
+mkdir c:\Users\krzysiek\.sbt
+cp arch.zip c:\Users\krzysiek\.sbt\
+c:
+cp arch.zip ..\
+unzip arch.zip 
+cd .sbt
+cd 0.13
+cat sonatype.sbt 
+echo a > test
+bash
+cd f:\code
+f:
+cd verizon\
+cd WebServices-UserRights\
+vim
+vim c:\Users\krzysiek\.ivy2\.credentials
+cd c:\Users\krzysiek
+cd ...
+cd code
+cd .ivy2
+mv ivy-cred .credentials
+z userr
+cd ..
+cd verizon\WebServices-UserRights\
+ls
+sbt
+java
+echo $PATH
+echo PATH
+jenv
+javac
+exit
+exit
+cd F:
+cd f:\
+cd code
+cd oss\cassandra-phantom 
+c cassandra-phantom 
+cd oss
+cd cassandra-phantom 
+git clone git@github.com:aludwiko/cassandra-phantom.git
+bash
+vpn up
+more
+cd .sbt
+cd c:\ProgramData\
+cd Oracle\Java\
+cd javapath
+dir
+cd ..
+cat javapath
+cd
+cd f:\dev-tools
+cd jdk
+c:
+ll
+ls -alL
+f:
+cd oracle-1.8.112\bin\
+ls
+exit
+ls -alL
+cd oracle-1.8.112\bin\
+exit
+javac
+f:
+cd code
+cd verizon\
+ls
+cd WebServices-UserRights\
+sbt
+cd f:\
+f:
+cd code\verizon\WebServices-UserRights\
+ll
+ls
+cd code\verizon\WebServices-UserRights\
+ll
+cd .sbt\0.13
+lls
+cd plugins\
+nano plugins.sbt 
+sublime
+vim plugins.sbt 
+cat build.sbt 
+cd ..
+ls
+cat global.sbt 
+vim global.sbt 
+exit
+bash
+exit
+cd WebServices-UserRights\
+cd f:\
+cd code\verizon\WebServices-UserRights\
+ll
+ls
+ll
+cd .sbt\0.13
+lls
+cd plugins\
+nano plugins.sbt 
+sublime
+vim plugins.sbt 
+cat build.sbt 
+cat global.sbt 
+vim global.sbt 
+exit
+f:
+cd code\verizon\WebServices-UserRights\
+export _JAVA_OPTIONS=-Dorg.slf4j.simpleLogger.defaultLogLevel=erro
+SET  _JAVA_OPTIONS=-Dorg.slf4j.simpleLogger.defaultLogLevel=error
+gco
+gup
+git pull origin master
+glol -3
+ga .
+bash
+git push kc close-stream
+cd ...
+cd oss
+git clone git@github.com:softwaremill/activator-reactive-kafka-scala.git
+cd activator-reactive-kafka-scala\
+vim build.sbt 
+cd project\
+ls
+vim build.properties 
+cd ..
+gst
+git status
+sbt
+f:
+cd code\verizon\WebServices-UserRights\
+sbvt
+sbt
+bash
+f:
+cd code\oss\activator-reactive-kafka-scala\
+ls
+sbt
+f:
+cd code\oss\activator-reactive-kafka-scala\
+sbt
+f:
+cd code
+cd oss\activator-reactive-kafka-scala\
+ls
+sbt
+f:
+cd code\oss\activator-reactive-kafka-scala\
+sbt
+f:\
+f:
+cd code
+cd oss\ap
+cd oss
+cd activator-reactive-kafka-scala\
+sbt
+f:
+cd code
+cd oss\activator-reactive-kafka-scala\
+ls
+sbt
+sbt
+f:\
+cd oss\ap
+f:
+cd code
+cd oss
+cd activator-reactive-kafka-scala\
+ls
+sbt
+exit
+cd oss\ap
+cd oss
+cd activator-reactive-kafka-scala\
+sbt
+f:
+cd code
+cd oss\activator-reactive-kafka-scala\
+ls
+sbt
+sbt
+f:\
+cd oss\ap
+f:
+cd code
+cd verizon\WebServices-UserRights\
+git reset --hard HEAD
+git checkut master
+git checkout master
+git pull --rebase origin master
+cd oss
+git clone https://github.com/manub/scalatest-embedded-kafka.git
+cd scalatest-embedded-kafka\
+vim build.sbt 
+cd ..
+ls
+cd activator-reactive-kafka-scala\
+sbt
+glol -3
+git log -10
+bash
+git rebase -i origin/HEAD
+git push origin update-to-0.13
+ga .
+git add .
+git status
+git commit -m "Add travis hooks"
+git log -23
+git push kc update-to-0.13
+git pull kc update-to-0.13
+git rebase --abort
+exit
+cd activator-reactive-kafka-scala\
+f:
+cd code
+cd oss\reactive-kafka\
+cat .travis
+cat .travis.yml 
+cat README.md 
+ls
+git branch
+git remote -v
+git remote add kc git@github.com:akka/reactive-kafka.git
+git checkout -b kciesielski-sbt_13_13 master
+git pull https://github.com/kciesielski/reactive-kafka.git sbt_13_13
+sbt
+exit
+cd oss\reactive-kafka\
+cat .travis
+cat .travis.yml 
+cat README.md 
+git branch
+git remote -v
+git remote add kc git@github.com:akka/reactive-kafka.git
+git checkout -b kciesielski-sbt_13_13 master
+git pull https://github.com/kciesielski/reactive-kafka.git sbt_13_13
+sbt
+cd code
+ln
+ln --help
+mklink /D c:\users\kc\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+sudo
+c:
+mklink
+runas /user:administrator  mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+runas /user:krzysiek mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+runas /user:krzysiek "mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3"
+f:
+ls -alL
+rm arch.zip 
+cd f:\code\.IdeaIC2016.3
+ls
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 .
+cd c:\users\krzysiek
+mkdir .IdeaIC2016.3
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+exit
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+exit
+cd f:\code\.IdeaIC2016.3
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 .
+cd c:\users\krzysiek
+mkdir .IdeaIC2016.3
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+exit
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+cd ..
+cd Public\
+cd Documents\
+history
+history | grep link
+mklink /D c:\Users\Public\Documents\Hyper-V f:\dev-tools\Hyper-V
+mkdir Hyper-V
+cd Hyper-V\
+ls
+exit
+git remote add kc git@github.com:akka/reactive-kafka.git
+git checkout -b kciesielski-sbt_13_13 master
+git pull https://github.com/kciesielski/reactive-kafka.git sbt_13_13
+ln
+ln --help
+mklink /D c:\users\kc\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+sudo
+c:
+mklink
+runas /user:administrator  mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+runas /user:krzysiek mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+runas /user:krzysiek "mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3"
+ls -alL
+rm arch.zip 
+cd f:\code\.IdeaIC2016.3
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 .
+cd c:\users\krzysiek
+mkdir .IdeaIC2016.3
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+exit
+mklink /D c:\users\krzysiek\.IdeaIC2016.3 f:\code\.IdeaIC2016.3
+exit
+f:
+cd code\
+docker
+cd dev-tools\
+mkdir mysql
+cd mysql
+vim run.sh
+bash
+cp run.sh run.bat
+.\run.bat 
+telnet localhost 3306
+vim run.bat 
+run.bat 
+cd ..
+cd code
+cd oss
+ls
+cd scalatimes-app\
+sbt
+f:
+cd code\oss\scalatimes-app\
+sbt
+telnet localhost 3306
+vim run.bat 
+run.bat 
+cd code
+cd oss
+cd scalatimes-app\
+sbt
+f:
+cd dev-tools\
+cd mysql\
+rm run.sh
+cat run.bat 
+cmdline.bat
+docker exec -it kc-mysql bash
+cd ..
+ls
+cd code\oss\scalatimes-app\
+sbt
+cat run.bat 
+cmdline.bat
+docker exec -it kc-mysql bash
+f:
+cd code
+ls 
+cd dev-tools\mysql\
+ls
+vim run.bat 
+run.bat 
+cd ..
+cd code\oss\scalatimes-app\
+sbt
+f:
+cd dev-tools\
+docker exec -it kc-mysql bash
+cd ..
+cd code\oss\
+ls
+cd scalatimes-app\
+sbt
+cd scalatimes-app\
+ssh imsc.sml.cumulushost.eu:9096
+ssh misc.sml.cumulushost.eu
+ssh krzysztof.ciesielski@misc.sml.cumulushost.eu
+ssh kciesielski@misc.sml.cumulushost.eu
+f:
+cd code
+cd oss
+ls
+cd scalatimes-app
+sbt
+ssh misc.sml.cumulushost.eu
+ssh krzysztof.ciesielski@misc.sml.cumulushost.eu
+ssh kciesielski@misc.sml.cumulushost.eu
+ls
+cd scalatimes-app
+f:
+cd code
+cd oss
+git clone git@github.com:softwaremill/bootzooka.git
+cd bootzooka\
+cd "F:\code\oss\bootzooka\ui\..\ui
+cd ..
+sbt
+npm
+exit
+ssh misc.sml.cumulushost.eu
+ssh krzysztof.ciesielski@misc.sml.cumulushost.eu
+ssh kciesielski@misc.sml.cumulushost.eu
+f:
+cd code
+cd oss
+ls
+cd scalatimes-app
+sbt
+ssh misc.sml.cumulushost.eu
+ssh krzysztof.ciesielski@misc.sml.cumulushost.eu
+ssh kciesielski@misc.sml.cumulushost.eu
+cd scalatimes-app
+git clone git@github.com:softwaremill/bootzooka.git
+cd "F:\code\oss\bootzooka\ui\..\ui
+cd ..
+npm
+f:
+cd code
+cd oss
+cd bootzooka\
+ls
+git stash
+git stash pop
+sbr
+git checkout -b sbt_13_13
+git log -3
+git remote add kc git@github.com:kciesielski/bootzooka.git
+gc -m "Use consistent name"
+git commit --amend
+git push --force kc sbt_13_13
+sbt
+git log -2
+git add .
+git status
+git push kc sbt_13_13
+bash
+alias
+alias gst='git status'
+alias gst=git status
+gst
+exit
+alias
+alias gst='git status'
+alias gst=git status
+f:
+ls
+cd code
+cd oss
+cd bootzooka\
+glol -3
+echo a > gb
+ga .
+gst
+exit
+glol -3
+echo a > gb
+cd F:\code\oss\bootzooka
+f:
+gst
+gc -m "w"
+git commit -m "w"
+ga .
+git add .
+exit
+ga .
+f:
+cd code
+cd oss\bootzooka\
+gst
+exit
+cd F:\code\oss\bootzooka
+f:
+git reset --hard HEAD
+glol
+glol -2
+echo a > b
+git add .
+git commit -m "test"
+echo a>f
+ga .
+exit
+git add .
+git commit -m "test"
+echo a>f
+f:
+cd code\oss\bootzooka\
+ga .
+gc
+c
+cd
+f:\
+cd \
+ll
+cat
+df
+pwd
+cd scripts
+ls
+dir
+mkdir cmder-config
+mv "d:\apps\cmder\config\*.*" .\cmder-config\
+mklink
+mklink /D f:\scripts\cmder-config\ d:\apps\cmder\config
+mklink /D d:\apps\cmder\config f:\scripts\cmder-config
+exit
+exit
+exit
+exit
+gst
+cat
+ls
+ll
+exit
+exit
+ls
+gst
+ll
+exit
